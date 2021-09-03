@@ -1,26 +1,32 @@
 *body {
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
+
 .container {
   width: 300px;
   margin: 2rem auto 0;
 }
+
 .moji {
   font-size: 8em;
   text-align: center;
 }
+
 input {
   width: 100%;
   margin: 0 10px;
 }
+
 .slider {
   display: flex;
   justify-content: space-between;
 }
+
 span {
   font-weight: bold;
   color: #5fcf80;
 }
+
 span:last-child {
   color: tomato;
 }
